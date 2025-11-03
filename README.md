@@ -10,15 +10,15 @@ This project focuses on optimizing AstroSage’s call and chat consultation oper
 Despite a large customer base, AstroSage faces operational inefficiencies such as high rates of incomplete calls and low customer ratings. The goal of this project is to analyze existing data, understand the root causes of inefficiencies, and recommend solutions to improve service quality and resource allocation.
 
 🧭 Project Objective:  
-To identify gaps in call and chat completion rates.  
-To evaluate astrologer performance and customer satisfaction trends.  
-To propose data-driven strategic initiatives that improve efficiency and profitability.  
-To create a visual analytics dashboard for real-time insights and decision-making.  
+1. To identify gaps in call and chat completion rates.  
+2. To evaluate astrologer performance and customer satisfaction trends.  
+3. To propose data-driven strategic initiatives that improve efficiency and profitability.  
+4. To create a visual analytics dashboard for real-time insights and decision-making.  
 
 ⚙️ Tools and Techniques Used:  
-Excel: Data cleaning, transformation, pivot tables, and dashboard creation.  
-Data Visualization: Charts (Pie, Bar, Line) to represent call status, ratings, and performance trends.  
-Analytical Approach: Descriptive statistics, KPI tracking, and performance benchmarking.  
+1. Excel: Data cleaning, transformation, pivot tables, and dashboard creation.  
+2. Data Visualization: Charts (Pie, Bar, Line) to represent call status, ratings, and performance trends.  
+3. Analytical Approach: Descriptive statistics, KPI tracking, and performance benchmarking.  
 
 💡 Key Features and Insights:  
 1. Call Status Distribution: Only 40.43% of calls are completed, meaning nearly 60% are incomplete. Indicates a need for better customer handling and reduced waiting time.  
@@ -29,24 +29,24 @@ Analytical Approach: Descriptive statistics, KPI tracking, and performance bench
 6. Peak Time Analysis: Highest consultation volume occurs between 5 AM – 4 PM, especially on Sundays and Mondays.  
 
 🚀 Strategic Initiatives & Solutions:  
-AI Chatbots: Automate basic queries to reduce workload on agents.  
-Real-Time Dashboards: Implement Power BI/Tableau dashboards for live tracking.  
-Customer Feedback System: Introduce post-call surveys to gather satisfaction data.  
-Sentiment Analysis: Use AI to detect negative tones in calls and respond proactively.  
-Performance Incentives: Reward top astrologers and provide training for underperformers.  
-Peak Hour Staffing: Hire more agents during high-demand hours to reduce waiting time.  
-Mobile Optimization: Enhance the mobile experience to attract and retain app users.  
+1. AI Chatbots: Automate basic queries to reduce workload on agents.  
+2. Real-Time Dashboards: Implement Power BI/Tableau dashboards for live tracking.  
+3. Customer Feedback System: Introduce post-call surveys to gather satisfaction data.  
+4. Sentiment Analysis: Use AI to detect negative tones in calls and respond proactively.  
+5. Performance Incentives: Reward top astrologers and provide training for underperformers.  
+6. Peak Hour Staffing: Hire more agents during high-demand hours to reduce waiting time.  
+7. Mobile Optimization: Enhance the mobile experience to attract and retain app users.  
 
 📊 Dashboard Features:  
-Call and chat completion trends.  
-Ratings and revenue insights by astrologer.  
-Platform-wise performance comparison.  
-Daily and hourly traffic visualization.  
-KPIs for revenue, satisfaction, and conversion.  
+1. Call and chat completion trends.  
+2. Ratings and revenue insights by astrologer.  
+3. Platform-wise performance comparison.  
+4. Daily and hourly traffic visualization.  
+5. KPIs for revenue, satisfaction, and conversion.  
 
 🧠 Conclusion:  
 This project provides a comprehensive analytical view of AstroSage’s consultation performance. By addressing the identified inefficiencies and implementing strategic initiatives, AstroSage can achieve:  
-Higher call/chat completion rates  
-Improved customer satisfaction  
-Optimized resource utilization  
-Increased overall profitability  
+1. Higher call/chat completion rates.  
+2. Improved customer satisfaction.  
+3. Optimized resource utilization.  
+4. Increased overall profitability.  
